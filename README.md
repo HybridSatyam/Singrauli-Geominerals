@@ -53,4 +53,5 @@ In the Litres per Hour visual, DAX logic is implemented to highlight values in r
 Satyam Singh
 Hybrid Mechanical Engineer
 
-🖼️ Dashboard Preview: (https://github.com/Satyamsingh508/Singrauli-Geominerals/blob/main/Singrauli%20Geominerals.png)
+Show what the dashboard looks kije. - ![Alt text](https://github.com/Satyamsingh508/Singrauli-Geominerals/blob/main/Singrauli%20Geominerals.png).
+Example: ![Dashboard Preview].(https://github.com/Satyamsingh508/Singrauli-Geominerals/blob/main/Singrauli%20Geominerals.png).
