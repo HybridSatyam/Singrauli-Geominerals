@@ -69,7 +69,6 @@ In the Litres per Hour visual, DAX logic is implemented to highlight values in r
 
 🧑‍💻 Developed By:
 Satyam Singh
-
 Hybrid Mechanical Engineer
 
 
