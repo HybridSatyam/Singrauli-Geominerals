@@ -68,8 +68,7 @@ In the Litres per Hour visual, DAX logic is implemented to highlight values in r
 💻 System Used: Developed on a HP Pavilion 14-dv2053TU — a powerful and reliable machine. 
 
 🧑‍💻 Developed By:
-Satyam Singh. 
-Hybrid Mechanical Engineer
+Satyam Singh | Hybrid Mechanical Engineer
 
 
 Snapshot 🖼️:
